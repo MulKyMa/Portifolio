@@ -1,0 +1,44 @@
+body{
+  background: rgb(231, 240, 241);
+  padding: 0;
+  margin: 0;
+}
+.container{
+width: 210px;
+height: 330px;
+margin: auto;
+background-color: rgb(255, 255, 255);
+position: relative;
+margin-top: 100px;
+border-radius: 15px;
+}
+.container img{
+  width: 200px;
+  padding: 5px;
+  margin-bottom: 0;
+  border-radius: 20px;
+  padding-bottom: o;
+  margin-top: 0.1px;
+}
+.container {
+  color: rgb(29, 29, 29);
+  text-align: center;
+  padding: 1%;
+  font-size: 25px;
+}
+.text{
+  font-size: 12px;
+  font-family: outfit;
+  text-align: center;
+  color: rgb(163, 163, 163);
+  margin: 5px;
+  margin-top: 2px;
+  padding-top: 5px;
+}
+h6{
+  padding: 0;
+  margin-bottom: 2px;
+  padding-bottom: 0;
+  font-family: outfit;
+  margin-top: 0;
+}
